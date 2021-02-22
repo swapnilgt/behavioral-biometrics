@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Behavioral Biometrics</string>
+    <string name="error_no_sensor">No sensor</string>
+    <string name="label_light">Light: %1$.2f</string>
+    <string name="label_proximity">Proximity: %1$.2f</string>
+    <string name="label_accelerometer">Accelerometer: %1$.2f %2$.2f %3$.2f</string>
+    <string name="label_temperature">Temperature: %1$.2f degree Celsius</string>
+    <string name="label_gravity">Gravity: %1$.2f %2$.2f %3$.2f</string>
+    <string name="label_gyroscope">Gyroscope: %1$.2f %2$.2f %3$.2f</string>
+    <string name="label_linear_acceleration">Linear accelration: %1$.2f %2$.2f %3$.2f</string>
+    <string name="label_rotation_vector">Rotational Vector: %1$.2f %2$.2f %3$.2f</string>
+</resources>
